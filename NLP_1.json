@@ -1,0 +1,4254 @@
+[ 
+  {
+    "text": "नेशनल हेल्थ मिशन (NHM), उत्तरप्रदेश ने कम्युनिटी हेल्थ ऑफिसर (CHO) के पदों पर भर्ती के लिए आवेदन मांगे हैं।\t",
+    "id": 42,
+    "label": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "नेशनल ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 11,
+        "text": "हेल्थ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "text": "मिशन",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 18,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 22,
+        "text": ")",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 21,
+        "text": "NHM",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 35,
+        "text": "उत्तरप्रदेश",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 38,
+        "text": "ने",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 48,
+        "text": "कम्युनिटी",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 54,
+        "text": "हेल्थ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 61,
+        "text": " ऑफिसर ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 62,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 67,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 65,
+        "text": "CHO",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 69,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 74,
+        "text": "पदों",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 77,
+        "text": "पर",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 84,
+        "text": "भर्ती ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 86,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 90,
+        "text": "लिए",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 96,
+        "text": "आवेदन",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 97,
+        "end": 102,
+        "text": "मांगे",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 106,
+        "text": "हैं",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 106,
+        "end": 107,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 3,
+    "created_at": "2025-01-24T18:38:25.775352Z",
+    "updated_at": "2025-01-24T18:38:25.775446Z",
+    "lead_time": 6773.539
+  },
+  {
+    "text": "यूनिवर्सिटी ग्रांट कमीशन ने नेशनल एलिजिबिलिटी टेस्ट या UGC NET 2021 का एग्जाम शेड्यूल जारी कर दिया है।\t",
+    "id": 43,
+    "label": [
+      {
+        "start": 0,
+        "end": 12,
+        "text": "यूनिवर्सिटी ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 19,
+        "text": "ग्रांट ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 25,
+        "text": "कमीशन ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "text": "ने",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 33,
+        "text": "नेशनल",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 45,
+        "text": "एलिजिबिलिटी",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 52,
+        "text": "टेस्ट ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 55,
+        "text": "या ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 58,
+        "text": "UGC",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 62,
+        "text": "NET",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 67,
+        "text": "2021",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 70,
+        "text": "का",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 78,
+        "text": "एग्जाम ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 85,
+        "text": "शेड्यूल",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 91,
+        "text": "जारी ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 93,
+        "text": "कर",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 98,
+        "text": "दिया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 99,
+        "end": 101,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 101,
+        "end": 102,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 4,
+    "created_at": "2025-01-24T18:40:57.036933Z",
+    "updated_at": "2025-01-24T18:40:57.036948Z",
+    "lead_time": 147.013
+  },
+  {
+    "text": "ऑल इंडिया पेरेंट्स एसोसिएशन (AIPA) ने CBSE 2021 बोर्ड परीक्षाओं को लेकर केंद्रीय शिक्षा मंत्री को सुझाव दिया कि यह परीक्षाएं मई 2021 में कराई जाएं।\t",
+    "id": 44,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "ऑल ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 9,
+        "text": "इंडिया",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 18,
+        "text": "पेरेंट्स",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "text": "एसोसिएशन",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 29,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 34,
+        "text": ")",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 33,
+        "text": "AIPA",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 37,
+        "text": " ने",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 42,
+        "text": "CBSE",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 47,
+        "text": "2021",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 53,
+        "text": "बोर्ड",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 64,
+        "text": "परीक्षाओं ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 67,
+        "text": "को ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 71,
+        "text": "लेकर",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 80,
+        "text": "केंद्रीय",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 87,
+        "text": "शिक्षा",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 94,
+        "text": "मंत्री",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 95,
+        "end": 97,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 103,
+        "text": "सुझाव",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 104,
+        "end": 108,
+        "text": "दिया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 108,
+        "end": 112,
+        "text": " कि ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 112,
+        "end": 114,
+        "text": "यह",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 115,
+        "end": 124,
+        "text": "परीक्षाएं",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 125,
+        "end": 127,
+        "text": "मई",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 128,
+        "end": 132,
+        "text": "2021",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 132,
+        "end": 137,
+        "text": " में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 137,
+        "end": 142,
+        "text": "कराई ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 142,
+        "end": 146,
+        "text": "जाएं",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 146,
+        "end": 147,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 5,
+    "created_at": "2025-01-24T18:44:56.782340Z",
+    "updated_at": "2025-01-24T18:44:56.782354Z",
+    "lead_time": 236.561
+  },
+  {
+    "text": "एकेडमिक ईयर 2020-21 से इंडियन इंस्टीट्यूट ऑफ टेक्नोलॉजी (IIT) और नेशनल इंस्टीट्यूट ऑफ टेक्नोलॉजी (NIT) में नई शिक्षा नीति के तहत बड़े बदलाव किए जाएंगे।\t",
+    "id": 45,
+    "label": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "एकेडमिक",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "text": "ईयर ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 20,
+        "text": "2020-21 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "text": "से",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 29,
+        "text": " इंडियन",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 41,
+        "text": "इंस्टीट्यूट",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 44,
+        "text": "ऑफ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 56,
+        "text": "टेक्नोलॉजी ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 57,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 60,
+        "text": "IIT",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 61,
+        "text": ")",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 64,
+        "text": "और",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 70,
+        "text": "नेशनल",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 82,
+        "text": "इंस्टीट्यूट",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 86,
+        "text": "ऑफ ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 96,
+        "text": "टेक्नोलॉजी",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 97,
+        "end": 98,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 101,
+        "text": "NIT",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 101,
+        "end": 103,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 106,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 107,
+        "end": 109,
+        "text": "नई",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 110,
+        "end": 116,
+        "text": "शिक्षा",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 117,
+        "end": 121,
+        "text": "नीति",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 122,
+        "end": 125,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 125,
+        "end": 128,
+        "text": "तहत",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 129,
+        "end": 133,
+        "text": "बड़े ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 133,
+        "end": 139,
+        "text": "बदलाव ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 139,
+        "end": 142,
+        "text": "किए",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 143,
+        "end": 149,
+        "text": "जाएंगे",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 149,
+        "end": 150,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 6,
+    "created_at": "2025-01-24T18:49:47.453699Z",
+    "updated_at": "2025-01-24T18:49:47.453711Z",
+    "lead_time": 286.227
+  },
+  {
+    "text": "इस दौरान केंद्रीय शिक्षा मंत्री ने फैसला लिया कि अगले साल से IIT, NIT समेत कई इंजीनियरिंग कॉलेजों में मातृभाषा में पढ़ाई होगी।\t",
+    "id": 46,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "इस",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 8,
+        "text": "दौरान",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 17,
+        "text": "केंद्रीय",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "text": "शिक्षा",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 31,
+        "text": "मंत्री",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 34,
+        "text": "ने",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 40,
+        "text": "फैसला",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 45,
+        "text": "लिया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 48,
+        "text": "कि",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 53,
+        "text": "अगले",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 57,
+        "text": "साल",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 60,
+        "text": "से",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 64,
+        "text": "IIT",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 65,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 70,
+        "text": "NIT ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 74,
+        "text": "समेत",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 77,
+        "text": "कई",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 89,
+        "text": "इंजीनियरिंग",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 97,
+        "text": "कॉलेजों",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 101,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 102,
+        "end": 110,
+        "text": "मातृभाषा",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 111,
+        "end": 114,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 115,
+        "end": 120,
+        "text": "पढ़ाई",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 121,
+        "end": 125,
+        "text": "होगी",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 125,
+        "end": 126,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 7,
+    "created_at": "2025-01-24T18:53:10.566439Z",
+    "updated_at": "2025-01-24T18:53:10.566452Z",
+    "lead_time": 200.748
+  },
+  {
+    "text": "इंडियन इंस्टीट्यूट ऑफ टेक्नोलॉजी (IIT) खड़गपुर जॉइंट एंट्रेंस एग्जाम (JEE) एडवांस 2021 के लिए 11 सितंबर को रजिस्ट्रेशन प्रक्रिया शुरू करेगा।\t",
+    "id": 47,
+    "label": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "इंडियन",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 18,
+        "text": "इंस्टीट्यूट",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "text": "ऑफ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 32,
+        "text": "टेक्नोलॉजी",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 34,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 38,
+        "text": ")",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 37,
+        "text": "IIT",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 46,
+        "text": "खड़गपुर",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 53,
+        "text": "जॉइंट ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 62,
+        "text": "एंट्रेंस ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 68,
+        "text": "एग्जाम",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 70,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 74,
+        "text": ")",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 73,
+        "text": "JEE",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 81,
+        "text": "एडवांस",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 86,
+        "text": "2021",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 89,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 93,
+        "text": "लिए",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 97,
+        "text": "11 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 97,
+        "end": 103,
+        "text": "सितंबर",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 104,
+        "end": 106,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 107,
+        "end": 118,
+        "text": "रजिस्ट्रेशन",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 119,
+        "end": 128,
+        "text": "प्रक्रिया",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 129,
+        "end": 133,
+        "text": "शुरू",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 134,
+        "end": 139,
+        "text": "करेगा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 139,
+        "end": 140,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 8,
+    "created_at": "2025-01-24T18:55:37.870641Z",
+    "updated_at": "2025-01-24T18:55:37.870657Z",
+    "lead_time": 144.114
+  },
+  {
+    "text": "जबकि NTPC, डॉ रेड्डी, हिंदुस्तान यूनिलीवर, ICICI बैंक और सन फार्मा के स्टॉक्स में बढ़त है।\t",
+    "id": 48,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "जबकि",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 9,
+        "text": "NTPC",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "text": "डॉ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "text": "रेड्डी",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 21,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 32,
+        "text": "हिंदुस्तान",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "text": "यूनिलीवर",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 42,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 48,
+        "text": "ICICI",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 53,
+        "text": "बैंक",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 56,
+        "text": "और",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 60,
+        "text": "सन ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 66,
+        "text": "फार्मा",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 69,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 77,
+        "text": "स्टॉक्स",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 82,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 86,
+        "text": "बढ़त",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 89,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 90,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9,
+    "created_at": "2025-01-24T18:58:18.732601Z",
+    "updated_at": "2025-01-24T18:58:18.732617Z",
+    "lead_time": 156.927
+  },
+  {
+    "text": "कुछ महीने पहले ही FEMA के नियम को तोड़ने को लेकर शाओमी के ग्लोबल वाइस प्रेसीडेंट मनु जैन की ED के सामने पेशी हुई।\t",
+    "id": 49,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "कुछ",
+        "labels": [
+          "DET"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 9,
+        "text": "महीने",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "text": "पहले",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "text": "ही ",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "text": "FEMA",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 30,
+        "text": "नियम",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 33,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 41,
+        "text": "तोड़ने ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 43,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 48,
+        "text": "लेकर",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 55,
+        "text": "शाओमी ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 57,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 64,
+        "text": "ग्लोबल",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 69,
+        "text": "वाइस",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 80,
+        "text": "प्रेसीडेंट",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 85,
+        "text": "मनु ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 88,
+        "text": "जैन",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 91,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 94,
+        "text": "ED",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 95,
+        "end": 97,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 104,
+        "text": "सामने ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 104,
+        "end": 108,
+        "text": "पेशी",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 109,
+        "end": 112,
+        "text": "हुई",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 112,
+        "end": 113,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 10,
+    "created_at": "2025-01-24T19:01:49.750218Z",
+    "updated_at": "2025-01-24T19:01:49.750234Z",
+    "lead_time": 208.378
+  },
+  {
+    "text": "ब्लूमबर्ग की एक रिपोर्ट के मुताबिक 5% हिस्सेदारी बिक्री से ही LIC का IPO भारत का सबसे बड़ा IPO बन जाएगा।\t",
+    "id": 50,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "text": "ब्लूमबर्ग",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "text": "एक",
+        "labels": [
+          "DET"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "text": "रिपोर्ट",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "text": "मुताबिक ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 36,
+        "text": "5",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 37,
+        "text": "%",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 48,
+        "text": "हिस्सेदारी",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 55,
+        "text": "बिक्री",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 58,
+        "text": "से",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 61,
+        "text": "ही",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 65,
+        "text": "LIC",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 68,
+        "text": "का",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 72,
+        "text": "IPO",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 77,
+        "text": " भारत",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 81,
+        "text": "का ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 85,
+        "text": "सबसे",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 90,
+        "text": "बड़ा",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 95,
+        "text": "IPO ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 95,
+        "end": 97,
+        "text": "बन",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 97,
+        "end": 103,
+        "text": " जाएगा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 104,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 11,
+    "created_at": "2025-01-24T19:06:16.713340Z",
+    "updated_at": "2025-01-24T19:06:16.713354Z",
+    "lead_time": 262.611
+  },
+  {
+    "text": "टेलिकॉम रेगुलेटरी अथॉरिटी ऑफ इंडिया (TRAI) ने सोमवार को 5जी एयरवेव्स के 700 MHz और 3300-3670 MHz बैंड के बेस प्राइस में कटोती की सिफारिश की है।\t",
+    "id": 51,
+    "label": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "टेलिकॉम ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 17,
+        "text": "रेगुलेटरी",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 26,
+        "text": "अथॉरिटी ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 28,
+        "text": "ऑफ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 35,
+        "text": "इंडिया",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 37,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 41,
+        "text": "TRAI",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 42,
+        "text": ")",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 45,
+        "text": " ने",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 52,
+        "text": "सोमवार",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 55,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 57,
+        "text": "5",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 60,
+        "text": "जी ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 68,
+        "text": "एयरवेव्स",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 71,
+        "text": " के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 75,
+        "text": "700",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 79,
+        "text": "MHz",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 83,
+        "text": "और ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 87,
+        "text": "3300",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 88,
+        "text": "-",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 92,
+        "text": "3670",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 96,
+        "text": "MHz",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 97,
+        "end": 101,
+        "text": "बैंड",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 102,
+        "end": 104,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 105,
+        "end": 108,
+        "text": "बेस",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 109,
+        "end": 116,
+        "text": "प्राइस ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 116,
+        "end": 119,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 120,
+        "end": 126,
+        "text": "कटोती ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 126,
+        "end": 128,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 129,
+        "end": 136,
+        "text": "सिफारिश",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 137,
+        "end": 139,
+        "text": "की",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 140,
+        "end": 142,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 142,
+        "end": 143,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 12,
+    "created_at": "2025-01-24T19:10:29.265448Z",
+    "updated_at": "2025-01-24T19:10:29.265461Z",
+    "lead_time": 245.676
+  },
+  {
+    "text": "दुनियाभर की कई अर्थव्यवस्थाएं महंगाई को मापने के लिए WPI (Wholesale Price Index) को अपना आधार मानती हैं।\t",
+    "id": 52,
+    "label": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "दुनियाभर",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "text": " कई",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 30,
+        "text": "अर्थव्यवस्थाएं ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 36,
+        "text": "महंगाई",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 39,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 45,
+        "text": "मापने",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 48,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 52,
+        "text": "लिए",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 56,
+        "text": "WPI",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 58,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 67,
+        "text": "Wholesale",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 73,
+        "text": "Price",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 79,
+        "text": "Index",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 80,
+        "text": ")",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 83,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 89,
+        "text": "अपना ",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 94,
+        "text": "आधार ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 99,
+        "text": "मानती",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 99,
+        "end": 103,
+        "text": " हैं",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 104,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 13,
+    "created_at": "2025-01-24T19:13:46.870093Z",
+    "updated_at": "2025-01-24T19:13:46.870107Z",
+    "lead_time": 192.873
+  },
+  {
+    "text": "बताते चलें कि दोनों कंपनियों पर प्रतिस्पर्धी व्यवहार विरोधी (anti-competitive behaviour) का आरोप है, जिसकी जांच कंपटीशन कमीशन ऑफ इंडिया कर रहा है।\t",
+    "id": 53,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "बताते",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "text": "चलें",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "text": " कि",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "text": "दोनों",
+        "labels": [
+          "DET"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 29,
+        "text": "कंपनियों ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 32,
+        "text": "पर ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 44,
+        "text": "प्रतिस्पर्धी",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 52,
+        "text": "व्यवहार",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 59,
+        "text": "विरोधी",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 61,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 65,
+        "text": "anti",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 66,
+        "text": "-",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 77,
+        "text": "competitive",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 87,
+        "text": "behaviour",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 88,
+        "text": ")",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 92,
+        "text": "का ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 96,
+        "text": "आरोप",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 97,
+        "end": 99,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 99,
+        "end": 100,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 101,
+        "end": 106,
+        "text": "जिसकी",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 107,
+        "end": 111,
+        "text": "जांच",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 112,
+        "end": 119,
+        "text": "कंपटीशन",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 120,
+        "end": 125,
+        "text": "कमीशन",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 126,
+        "end": 128,
+        "text": "ऑफ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 129,
+        "end": 135,
+        "text": "इंडिया",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 136,
+        "end": 138,
+        "text": "कर",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 139,
+        "end": 142,
+        "text": "रहा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 143,
+        "end": 145,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 145,
+        "end": 146,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 14,
+    "created_at": "2025-01-24T19:17:56.530112Z",
+    "updated_at": "2025-01-24T19:17:56.530126Z",
+    "lead_time": 243.56
+  },
+  {
+    "text": "जबकि बीमा क्षेत्र में काम करने वाली NBFC का नियमन इंश्योरेंस रेगुलेटरी एंड डेवलपमेंट अथॉरिटी (IRDA) करता है।\t",
+    "id": 54,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "जबकि",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 9,
+        "text": "बीमा",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 17,
+        "text": "क्षेत्र",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 21,
+        "text": " में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 26,
+        "text": "काम ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 30,
+        "text": "करने",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "text": "वाली ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 40,
+        "text": "NBFC",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 43,
+        "text": "का",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 49,
+        "text": "नियमन",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 60,
+        "text": "इंश्योरेंस",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 70,
+        "text": "रेगुलेटरी",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 75,
+        "text": "एंड ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 84,
+        "text": "डेवलपमेंट",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 92,
+        "text": "अथॉरिटी",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 94,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 99,
+        "text": ")",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 98,
+        "text": "IRDA",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 100,
+        "end": 104,
+        "text": "करता",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 105,
+        "end": 107,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 107,
+        "end": 108,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 15,
+    "created_at": "2025-01-24T19:20:32.917499Z",
+    "updated_at": "2025-01-24T19:20:32.917534Z",
+    "lead_time": 140.773
+  },
+  {
+    "text": "ICICI बैंक, टाइटन और टाटा स्टील में तेजीबढ़ने वाले प्रमुख शेयर्स में ICICI बैंक, टाइटन, टाटा स्टील 2 से 4% तक बढ़े।\t",
+    "id": 55,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "ICICI",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "text": "बैंक",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "text": "टाइटन",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "text": "और",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 25,
+        "text": "टाटा",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 31,
+        "text": "स्टील",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 35,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 40,
+        "text": "तेजी",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 44,
+        "text": "बढ़ने",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 50,
+        "text": "वाले ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 56,
+        "text": "प्रमुख",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 64,
+        "text": " शेयर्स ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 67,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 73,
+        "text": "ICICI",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 78,
+        "text": "बैंक",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 79,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 85,
+        "text": "टाइटन",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 86,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 91,
+        "text": "टाटा",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 97,
+        "text": "स्टील",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 100,
+        "text": "2 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 104,
+        "text": "4",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 100,
+        "end": 102,
+        "text": "से",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 104,
+        "end": 105,
+        "text": "%",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 105,
+        "end": 108,
+        "text": " तक",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 108,
+        "end": 112,
+        "text": " बढ़े",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 112,
+        "end": 113,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 16,
+    "created_at": "2025-01-24T19:23:51.425277Z",
+    "updated_at": "2025-01-24T19:23:51.425292Z",
+    "lead_time": 191.213
+  },
+  {
+    "text": "इंडस टावर, ग्लेनमार्क, टाटा मोटर्स, PVR, भारत फोर्ज, टाटा केमिकल, कैडिला हेल्थकेयर और HUL में कमजोरी का रुझान रहा।\t",
+    "id": 56,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "इंडस",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 9,
+        "text": "टावर",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 21,
+        "text": "ग्लेनमार्क",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 27,
+        "text": "टाटा",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "text": "मोटर्स",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 36,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 39,
+        "text": "PVR",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 40,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 45,
+        "text": "भारत",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 51,
+        "text": "फोर्ज",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 53,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 57,
+        "text": "टाटा",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 64,
+        "text": " केमिकल",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 66,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 72,
+        "text": "कैडिला",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 82,
+        "text": "हेल्थकेयर",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 86,
+        "text": "और ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 89,
+        "text": "HUL",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 93,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 100,
+        "text": "कमजोरी",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 101,
+        "end": 103,
+        "text": "का",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 104,
+        "end": 109,
+        "text": "रुझान",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 110,
+        "end": 113,
+        "text": "रहा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 113,
+        "end": 114,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 17,
+    "created_at": "2025-01-24T19:28:03.434030Z",
+    "updated_at": "2025-01-24T19:28:03.434041Z",
+    "lead_time": 246.471
+  },
+  {
+    "text": "SBI ग्राहक वीडियो कॉल के जरिए जमा कर सकेंगे लाइफ सर्टिफिकेटस्टेट बैंक ऑफ इंडिया (SBI) ने पेंशनरों के लिए नई सुविधा शुरू की है।\t",
+    "id": 57,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "SBI",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 10,
+        "text": "ग्राहक",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 17,
+        "text": "वीडियो",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 21,
+        "text": "कॉल",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 25,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 30,
+        "text": "जरिए ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 33,
+        "text": "जमा",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 36,
+        "text": "कर",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 43,
+        "text": "सकेंगे",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 48,
+        "text": "लाइफ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 59,
+        "text": "सर्टिफिकेट",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 64,
+        "text": "स्टेट",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 70,
+        "text": "बैंक ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 72,
+        "text": "ऑफ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 79,
+        "text": "इंडिया",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 81,
+        "text": " (",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 85,
+        "text": ")",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 84,
+        "text": "SBI",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 88,
+        "text": " ने",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 97,
+        "text": "पेंशनरों",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 100,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 100,
+        "end": 104,
+        "text": " लिए",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 105,
+        "end": 107,
+        "text": "नई",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 107,
+        "end": 114,
+        "text": " सुविधा",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 115,
+        "end": 119,
+        "text": "शुरू",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 119,
+        "end": 122,
+        "text": " की",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 123,
+        "end": 125,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 125,
+        "end": 126,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 18,
+    "created_at": "2025-01-24T19:31:23.482611Z",
+    "updated_at": "2025-01-24T19:31:23.482624Z",
+    "lead_time": 195.069
+  },
+  {
+    "text": "IBRD के माध्यम से किया गया निवेशये निवेश इंटरनेशनल बैंक फॉर रिकंस्ट्रक्शन एंड डेवलपमेंट (IBRD) या FRBNY के माध्यम से किया गया।\t",
+    "id": 58,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "IBRD",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "text": "माध्यम",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "text": "से",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "text": "किया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 26,
+        "text": "गया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 32,
+        "text": "निवेश",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 34,
+        "text": "ये",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 40,
+        "text": "निवेश",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 50,
+        "text": "इंटरनेशनल",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 55,
+        "text": "बैंक",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 59,
+        "text": "फॉर",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 73,
+        "text": "रिकंस्ट्रक्शन",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 77,
+        "text": "एंड",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 87,
+        "text": "डेवलपमेंट",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 89,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 94,
+        "text": ")",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 93,
+        "text": "IBRD",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 97,
+        "text": " या",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 103,
+        "text": "FRBNY",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 106,
+        "text": " के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 107,
+        "end": 113,
+        "text": "माध्यम",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 114,
+        "end": 116,
+        "text": "से",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 117,
+        "end": 121,
+        "text": "किया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 122,
+        "end": 125,
+        "text": "गया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 125,
+        "end": 126,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 19,
+    "created_at": "2025-01-24T19:34:21.711323Z",
+    "updated_at": "2025-01-24T19:34:21.711336Z",
+    "lead_time": 173.24
+  },
+  {
+    "text": "केंद्रीय माध्यमिक शिक्षा बोर्ड (CBSE) और काउंसिल फॉर दि इंडियन स्कूल सर्टिफिकेट एग्जामिनेशन (CISCE) की बोर्ड परीक्षाओं का मामला सुप्रीम कोर्ट में है।\t",
+    "id": 59,
+    "label": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "केंद्रीय",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 17,
+        "text": "माध्यमिक",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "text": "शिक्षा",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 31,
+        "text": "बोर्ड ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 32,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 37,
+        "text": ")",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 36,
+        "text": "CBSE",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 40,
+        "text": "और",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 48,
+        "text": "काउंसिल",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 53,
+        "text": "फॉर ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 55,
+        "text": "दि",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 62,
+        "text": "इंडियन",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 68,
+        "text": "स्कूल",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 79,
+        "text": "सर्टिफिकेट",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 91,
+        "text": "एग्जामिनेशन",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 93,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 99,
+        "text": ")",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 98,
+        "text": "CISCE",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 99,
+        "end": 102,
+        "text": " की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 109,
+        "text": "बोर्ड ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 109,
+        "end": 118,
+        "text": "परीक्षाओं",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 119,
+        "end": 121,
+        "text": "का",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 122,
+        "end": 127,
+        "text": "मामला",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 128,
+        "end": 136,
+        "text": "सुप्रीम ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 136,
+        "end": 141,
+        "text": "कोर्ट",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 142,
+        "end": 145,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 145,
+        "end": 148,
+        "text": " है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 148,
+        "end": 149,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 20,
+    "created_at": "2025-01-24T19:38:29.585494Z",
+    "updated_at": "2025-01-24T19:38:29.585504Z",
+    "lead_time": 244.206
+  },
+  {
+    "text": "इंडियन इंस्टीट्यूट ऑफ टेक्नोलॉजी, (IIT) बॉम्बे कल, 28 अक्टूबर बुधवार को GATE 2021 के एप्लीकेशन फॉर्म में करेक्शन के लिए विंडो ओपन करेगा।",
+    "id": 14578,
+    "label": [
+      {
+        "start": 0,
+        "end": 32,
+        "text": "इंडियन इंस्टीट्यूट ऑफ टेक्नोलॉजी",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 38,
+        "text": "IIT",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 46,
+        "text": "बॉम्बे",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 35,
+        "text": " (",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 40,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 33,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 49,
+        "text": "कल",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 51,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 53,
+        "text": "28",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 61,
+        "text": "अक्टूबर",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 68,
+        "text": "बुधवार",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 71,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 76,
+        "text": "GATE",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 81,
+        "text": "2021",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 84,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 94,
+        "text": "एप्लीकेशन",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 100,
+        "text": " फॉर्म",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 101,
+        "end": 104,
+        "text": "में",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 105,
+        "end": 112,
+        "text": "करेक्शन",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 113,
+        "end": 115,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 116,
+        "end": 119,
+        "text": "लिए",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 120,
+        "end": 125,
+        "text": "विंडो",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 126,
+        "end": 129,
+        "text": "ओपन",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 130,
+        "end": 135,
+        "text": "करेगा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 135,
+        "end": 136,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 26,
+    "created_at": "2025-01-25T14:47:08.179192Z",
+    "updated_at": "2025-01-25T14:47:08.179192Z",
+    "lead_time": 130.07
+  },
+  {
+    "text": "डायरेक्टोरेट जनरल ऑफ सिविल एविएशन (DGCA) ने जेट एयरवेज को एयर ऑपरेटर सर्टिफिकेट (AOC) दे दिया है।",
+    "id": 14579,
+    "label": [
+      {
+        "start": 35,
+        "end": 39,
+        "text": "DGCA",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 33,
+        "text": "डायरेक्टोरेट जनरल ऑफ सिविल एविएशन",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 35,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 40,
+        "text": ")",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 43,
+        "text": "ने",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 47,
+        "text": "जेट",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 54,
+        "text": "एयरवेज",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 57,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 61,
+        "text": "एयर",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 68,
+        "text": "ऑपरेटर",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 79,
+        "text": "सर्टिफिकेट",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 84,
+        "text": "AOC",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 81,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 85,
+        "text": ")",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 88,
+        "text": "दे",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 93,
+        "text": "दिया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 96,
+        "text": " है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 96,
+        "end": 97,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 27,
+    "created_at": "2025-01-25T14:48:45.750615Z",
+    "updated_at": "2025-01-25T14:48:45.750615Z",
+    "lead_time": 95.284
+  }
+]
