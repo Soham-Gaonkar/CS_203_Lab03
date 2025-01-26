@@ -21,4 +21,4 @@ This repository contains the work done for two tasks related to dataset annotati
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Soham-Gaonkar/CS_203_Lab03.git
